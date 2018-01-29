@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1517249725 source:d:\random programming shit\tacka2d\tacka2d\klase.cpp
+	"Klase.hpp"
+
+1517246509 d:\random programming shit\tacka2d\tacka2d\klase.hpp
+	<iostream>
+
+1517249246 source:d:\random programming shit\tacka2d\tacka2d\main.cpp
+	"Klase.hpp"
+
