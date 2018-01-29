@@ -2,6 +2,7 @@
 
 int main()
 {
+	// NENAD VULETIC | ALEKSANDAR KOVACEVIC | NIKOLA JOSIPOVIC
     string tenkic;
     int x,y;
     cout << "Upisite naziv objekta: " ;
