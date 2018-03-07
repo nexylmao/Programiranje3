@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1519213670 source:d:\random programming shit\applikacije\app\dinstring.cpp
+	"dinstring.hpp"
+
+1519213670 d:\random programming shit\applikacije\app\dinstring.hpp
+	<iostream>
+
+1520408503 source:d:\random programming shit\applikacije\app\main.cpp
+	<iostream>
+	"dinstring.hpp"
+	"klase.hpp"
+
+1520406581 d:\random programming shit\applikacije\app\klase.hpp
+	<iostream>
+	"dinstring.hpp"
+
+1520408251 source:d:\random programming shit\applikacije\app\klase.cpp
+	"klase.hpp"
+
